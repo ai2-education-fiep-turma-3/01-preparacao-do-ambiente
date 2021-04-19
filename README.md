@@ -1,1 +1,3 @@
-# 01-preparacao-do-ambiente
+# Preparação do Ambiente
+
+* Aula 1 - Unix Shell Básico e Docker ([Slides]()) ([Exercícios]())
